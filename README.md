@@ -2,7 +2,6 @@
 
 > #### `Click` ⭐ if you like this repository. Pull Requests are highly appreciated. Please contribute your interview preparation notes here.
 
-> #### `Special Thanks` ❤️ to those, whose contributions have been shared here and those who are contributing here.
 
 <img src="https://i.ibb.co/DVvgXNT/1635604147457.jpg" height="100%" width="35%">
 
@@ -158,13 +157,6 @@
  - [Recruitment Process at Enosis (tahanima.github.io)](https://tahanima.github.io/2020/06/25/recruitment-stories-experience-of-sabera-at-enosis/)
  - [Recruitment Process at Infolytx (tahanima.github.io)](https://tahanima.github.io/2020/05/09/recruitment-stories-experience-of-jaber-at-infolytx/)
  - [Recruitment Process at Dynamic Solution Innovators (tahanima.github.io)](https://tahanima.github.io/2020/06/15/recruitment-stories-experience-of-afrida-at-dsi/)
-
----
-## 🚀 Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
